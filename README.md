@@ -98,10 +98,12 @@ ex00: OK | ex01: Nothing turned in
 
 -didn't get a working solution for ex01
 
-# eval_expr
+## eval_expr
 
 ex00: Nothing turned in
 
-# BSQ
+## BSQ
 
 ex00: OK
+
+-perf could definitely be improved, should probably only use a linked-list for reading first line, then create 2D array for further storage
