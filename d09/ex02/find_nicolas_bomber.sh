@@ -1,0 +1,1 @@
+cat $1 | grep -i 'bomber' | grep -v -i 'Escroc\|sally' | wc -l | tr -d ' '

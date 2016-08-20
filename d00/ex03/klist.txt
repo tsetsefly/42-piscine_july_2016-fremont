@@ -1,0 +1,6 @@
+Credentials cache: API:7D129C67-CC94-4D94-82FF-489B942BD4D9
+        Principal: dtse@42.US.ORG
+
+  Issued                Expires               Principal
+Jul 12 23:12:57 2016  Jul 13 09:12:57 2016  krbtgt/42.US.ORG@42.US.ORG
+Jul 12 23:14:07 2016  Jul 13 09:12:57 2016  host/vgs-fn1.42.us.org@42.US.ORG
