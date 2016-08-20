@@ -67,3 +67,41 @@ ex00: OK | ex01: Does not compile | ex02: Nothing turned in | ex03: Nothing turn
 ex00: Does not compile | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: KO | ex06: Nothing turned in | ex07: Nothing turned in | ex08: Nothing turned in | ex09: Nothing turned in
 
 -ex00 fixed by adding prototype to header
+
+## rush00
+
+ex00: OK
+
+-NOTE: ex01_04/ is working code for the other exercises, not my solutions
+
+## rush01
+
+ex00: KO
+
+-doesn't work for multiple solutions, misses one error-checking scenario
+
+## rush02
+
+ex00: KO
+
+-works except forgot to initialize last_col in the *row_col_list function in main.c
+
+## sastantua
+
+ex00: KO
+
+-didn't get a working solution
+
+## match_n_match
+
+ex00: OK | ex01: Nothing turned in
+
+-didn't get a working solution for ex01
+
+# eval_expr
+
+ex00: Nothing turned in
+
+# BSQ
+
+ex00: OK
