@@ -1,5 +1,24 @@
 # 42_Piscine-July_2016-Fremont
 
+## Some tips:
+### ```ldapsearch``` for people's contact information
+```
+ldapsearch uid=<uid>
+```
+Note: assigned e-mails from the 42 domain seem to forward to given/personal e-mail addresses
+
+### Setup zsh aliases
+1. vi ~/.zshenv
+2. add aliases, save
+3. close and restart terminal session
+
+Examples:
+```
+alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
+alias gccc="gcc -Wall -Wextra -Werror"
+```
+Note: should also probably create aliases for Norminette checking, can also modify terminal prompt
+
 ## d00
 
 ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK | ex09: OK | ex10: OK | ex11: OK
