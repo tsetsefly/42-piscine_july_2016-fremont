@@ -19,6 +19,10 @@ alias gccc="gcc -Wall -Wextra -Werror"
 ```
 Note: should also probably create aliases for Norminette checking, can also modify terminal prompt
 
+### Adding 42 Headers
+1. open your file with vi
+2. type ```:Stdheader``` and press enter
+
 ## d00
 
 ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK | ex09: OK | ex10: OK | ex11: OK
