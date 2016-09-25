@@ -29,7 +29,7 @@ Note: should also probably create aliases for Norminette checking, can also modi
 3. to turn off type ```:syntax off``` and press enter
 
 ### Making syntax highlighting permanent
-1. ```vi .vimrc```
+1. ```vi ~/.vimrc```
 2. add ```syntax on```
 3. save and quit ```:wq```
 
