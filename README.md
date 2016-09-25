@@ -23,6 +23,16 @@ Note: should also probably create aliases for Norminette checking, can also modi
 1. open your file with vi
 2. type ```:Stdheader``` and press enter
 
+### Turning on syntax highlighting in vi/vim
+1. open your file with vi
+2. type ```:syntax on``` and press enter
+3. to turn off type ```:syntax off``` and press enter
+
+### Making syntax highlighting permanent
+1. ```vi .vimrc```
+2. add ```syntax on```
+3. save and quit ```:wq```
+
 ## d00
 
 ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK | ex09: OK | ex10: OK | ex11: OK
