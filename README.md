@@ -89,7 +89,7 @@ ex00: OK | ex01: KO | ex02: OK | ex03: OK | ex04: OK | ex05: KO | ex06: OK | ex0
 
 ex00: OK | ex01: Segmentation fault | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: Does not compile | ex07: Cheating | ex08: Segmentation fault | ex09: Does not compile | ex10: Nothing turned in | ex11: Nothing turned in | ex12: Nothing turned in | ex13: Nothing turned in | ex14: Nothing turned in | ex15: Nothing turned in | ex16: Nothing turned in | ex17: Nothing turned in
 
--ex07: forgot to remove debugging (stdio and printf)
+-ex07: forgot to remove debugging (<stdio.h> and printf)
 -ex09 fixed
 
 ## d12
